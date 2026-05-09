@@ -1,8 +1,8 @@
 Reflexión sobre comunicación digital y fetch – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yesenia Bolaños
+Fecha: 08-05-2026
+Nombre de la rama: yesenia-bolanos
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,4 @@ En tu respuesta menciona al menos dos de estas ideas:
 - cultura de paz
 
 Respuesta:
+Una plataforma comunitaria necesita consultar información del servidor para ofrecer datos actualizados y claros a las personas de la comunidad. Esto mejora el acceso a la información y ayuda a prevenir la desinformación. También es importante que la plataforma permita enviar propuestas desde la página web, porque así se fortalece la participación ciudadana y las personas pueden compartir ideas o necesidades. La recepción de propuestas ayuda a mantener una comunicación clara entre la comunidad y quienes administran la plataforma. Además, responder de manera responsable genera confianza comunitaria y promueve una cultura de paz basada en el respeto y la colaboración
