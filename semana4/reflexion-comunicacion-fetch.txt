@@ -18,4 +18,13 @@ En tu respuesta menciona al menos dos de estas ideas:
 - prevención de desinformación
 - cultura de paz
 
-Respuesta:
+Respuesta: Una plataforma comunitaria requiere este intercambio constante para
+garantizar el acceso a la información, permitiendo que los ciudadanos
+consulten datos verídicos y actualizados en tiempo real desde el servidor.
+Al mismo tiempo, la capacidad de enviar propuestas desde la web es vital 
+para fomentar la participación ciudadana, dándole voz a cada integrante 
+sin intermediarios. Esta bidireccionalidad no solo agiliza la gestión de
+soluciones, sino que fortalece la confianza comunitaria al crear un entorno
+de transparencia. En última instancia, conectar al vecino con la tecnología
+facilita una comunicación clara, elemento esencial para construir una 
+verdadera cultura de paz basada en la colaboración.
