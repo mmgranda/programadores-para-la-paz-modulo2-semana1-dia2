@@ -8,40 +8,43 @@ Responde con tus propias palabras.
 
 1. ¿Qué es fetch?
 
-Respuesta:
+Respuesta:es escribir una dirreccion en el buscador y la respuesta es una promesa
 
 2. ¿Para qué sirve fetch en una página web?
 
-Respuesta:
+Respuesta:sirve para que el programa se conecte con otros servidores en internet
 
 3. ¿Qué significa que el cliente consulte información al servidor?
 
-Respuesta:
+Respuesta:Consultar al servidor significa que tu programa está saliendo 
+de tu computadora para buscar, guardar o actualizar información en una 
+central de datos externa
 
 4. ¿Qué ruta se usa para consultar la campaña?
 
-Respuesta:
+Respuesta:GET /api/campania
 
 5. ¿Qué ruta se usa para consultar avisos?
 
-Respuesta:
+Respuesta:GET /api/avisos
 
 6. ¿Qué ruta se usa para enviar propuestas?
 
-Respuesta:
+Respuesta:POST /api/propuestas
 
 7. ¿Qué método se usa para consultar información?
 
-Respuesta:
+Respuesta:GET
 
 8. ¿Qué método se usa para enviar información?
 
-Respuesta:
+Respuesta:POST
 
 9. ¿Qué hace await en esta práctica?
 
-Respuesta:
+Respuesta:es el que me dice que espere
 
 10. ¿Cómo ayuda fetch a construir una plataforma comunitaria?
 
-Respuesta:
+Respuesta:Permite que los miembros de la comunidad se comuniquen
+ entre sí a través del servidor, enviando y recibiendo mensajes de forma dinámica.

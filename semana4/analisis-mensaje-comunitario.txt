@@ -1,8 +1,8 @@
 Análisis de mensaje comunitario – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
+Nombre del estudiante:carolina fuentes
 Fecha:
-Nombre de la rama:
+Nombre de la rama:carolina_fuentes_bello
 
 Lee el aviso mostrado por el servidor y responde.
 
@@ -11,20 +11,27 @@ Aviso base:
 
 1. ¿El mensaje es claro?
 
-Respuesta:
+Respuesta:no le falta mas informacion
 
 2. ¿El mensaje ayuda a prevenir desinformación?
 
-Respuesta:
+Respuesta:si pero deberia de contener mas informacion
 
 3. ¿Qué le agregarías para hacerlo más útil para una comunidad?
 
-Respuesta:
+Respuesta:antes de compartir, divulgar y opinar cualquier informacion verifica las fuentes
+confirma las fechas, y usa un lenguaje respetuso si vas a opinar en cualquier 
+publicacion
 
 4. ¿Qué riesgo existe si una plataforma publica avisos confusos?
 
-Respuesta:
+Respuesta:eso conlleva a que los usuarios se confundad y no resiban la informacion
+clara, proporcionando asi a la desinformacion
 
 5. Escribe una versión mejorada del aviso comunitario:
 
-Respuesta:
+Respuesta:¡Cuidemos nuestra comunidad! Antes de compartir,
+divulgar u opinar, asegúrate de que la información sea verídica:
+verifica que la fuente sea confiable, confirma que la fecha sea 
+reciente y utiliza siempre un lenguaje respetuoso. Evitemos juntos
+la desinformación.
