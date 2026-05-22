@@ -1,8 +1,8 @@
 Reflexión sobre comunicación digital y fetch – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 21/05/26
+Nombre de la rama: angelica_tejera
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - cultura de paz
 
 Respuesta:
+Una plataforma comunitaria necesita consultar información del servidor para mantener a las personas informadas de manera rápida y organizada.
+Esto facilita el acceso a la información y ayuda a prevenir la desinformación dentro de la comunidad.
+También es importante que la página permita enviar propuestas y opiniones de los ciudadanos.
+De esta manera se fortalece la participación ciudadana y las personas sienten que sus ideas son escuchadas.
+La comunicación clara entre la comunidad y la plataforma genera más confianza comunitaria.
+Además, compartir información y propuestas ayuda a resolver problemas de forma pacífica y colaborativa.
+Por eso, una plataforma participativa debe permitir tanto consultar como enviar información constantemente.

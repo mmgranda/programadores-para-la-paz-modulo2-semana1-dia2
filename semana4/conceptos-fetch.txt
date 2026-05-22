@@ -1,47 +1,54 @@
 Conceptos básicos de fetch – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 21/05/26
+Nombre de la rama: angelica_tejera
 
 Responde con tus propias palabras.
 
 1. ¿Qué es fetch?
 
-Respuesta:
+Respuesta: es una función de JavaScript que permite pedir o enviar información entre una página web y un servidor.
 
 2. ¿Para qué sirve fetch en una página web?
 
-Respuesta:
+Respuesta: Sirve para obtener datos, mostrar información actualizada y enviar información sin necesidad de recargar la página.
 
 3. ¿Qué significa que el cliente consulte información al servidor?
 
-Respuesta:
+Respuesta: Significa que el navegador (el cliente) está enviando una señal al equipo remoto (el servidor) preguntando por un recurso específico
+(como un archivo JSON, una imagen o una lista de usuarios). El servidor procesa esa solicitud
+si todo está bien, envía de vuelta la información para que el cliente la muestre.
 
 4. ¿Qué ruta se usa para consultar la campaña?
 
-Respuesta:
+Respuesta: get consultar campañas / get campanias
 
 5. ¿Qué ruta se usa para consultar avisos?
 
-Respuesta:
+Respuesta: get consultar avisos /get avisos
 
 6. ¿Qué ruta se usa para enviar propuestas?
 
-Respuesta:
+Respuesta: post enviar propuestas / post propuestas
 
 7. ¿Qué método se usa para consultar información?
 
-Respuesta:
+Respuesta: Se utiliza el método GET. Es el método por defecto de fetch y sirve para pedir datos sin modificar nada en el servidor.
 
 8. ¿Qué método se usa para enviar información?
 
-Respuesta:
+Respuesta: Se utiliza el método POST. Este método se emplea cuando se envian datos nuevos
 
 9. ¿Qué hace await en esta práctica?
 
-Respuesta:
+Respuesta: Await hace que el programa espere la respuesta del servidor antes de continuar con el siguiente paso.
+await asegura que no intentemos procesar los datos antes de haberlos recibido realmente
 
 10. ¿Cómo ayuda fetch a construir una plataforma comunitaria?
 
-Respuesta:
+Respuesta: Ayuda permitiendo que la interacción sea fluida y colaborativa.
+Por ejemplo, cuando alguien publica un aviso o una propuesta
+fetch permite que esa información aparezca para otros miembros de la comunidad.
+casi instantáneamente, sin interrumpir la experiencia de navegación, creando así un entorno conectado y dinámico.
+
