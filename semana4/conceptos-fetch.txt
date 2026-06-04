@@ -1,47 +1,49 @@
 Conceptos básicos de fetch – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:hailer duvan julio palomino
+Fecha:03/06/2026
+Nombre de la rama:duvan_palomino
 
 Responde con tus propias palabras.
 
 1. ¿Qué es fetch?
 
-Respuesta:
+Respuesta:es una funcion.
 
 2. ¿Para qué sirve fetch en una página web?
 
-Respuesta:
+Respuesta:sirve para conectar una pagina con el servidor.
 
 3. ¿Qué significa que el cliente consulte información al servidor?
 
-Respuesta:
+Respuesta:eso se llama require, get cuando uso información
+del servidor
 
 4. ¿Qué ruta se usa para consultar la campaña?
 
-Respuesta:
+Respuesta:"/api/campania"
 
 5. ¿Qué ruta se usa para consultar avisos?
 
-Respuesta:
+Respuesta:"/api/avisos"
 
 6. ¿Qué ruta se usa para enviar propuestas?
 
-Respuesta:
+Respuesta:"/api/propuestas"
 
 7. ¿Qué método se usa para consultar información?
 
-Respuesta:
+Respuesta: get
 
 8. ¿Qué método se usa para enviar información?
 
-Respuesta:
+Respuesta: post
 
 9. ¿Qué hace await en esta práctica?
 
-Respuesta:
+Respuesta:le dice al programa que se espere hasta que se ejecute la accion.
 
 10. ¿Cómo ayuda fetch a construir una plataforma comunitaria?
 
-Respuesta:
+Respuesta:ayuda en el sentido que se puede comunicar con el servidor
+y guardar o registrar todas las propuestas.
