@@ -1,8 +1,8 @@
 Análisis de mensaje comunitario – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:hailer duvan julio palomino
+Fecha:03/06/2026
+Nombre de la rama:duvan_palomino
 
 Lee el aviso mostrado por el servidor y responde.
 
@@ -11,20 +11,20 @@ Aviso base:
 
 1. ¿El mensaje es claro?
 
-Respuesta:
+Respuesta: si, ya que da a conocer que se va hacer.
 
 2. ¿El mensaje ayuda a prevenir desinformación?
 
-Respuesta:
+Respuesta: si,ya que insita a verifica la fuente, confirma la fecha y usa lenguaje respetuoso.
 
 3. ¿Qué le agregarías para hacerlo más útil para una comunidad?
 
-Respuesta:
+Respuesta:dar un ejemplo de una propuesta comunitaria.
 
 4. ¿Qué riesgo existe si una plataforma publica avisos confusos?
 
-Respuesta:
+Respuesta:crea una cadena de desinformación. y podra traer violencia a una comunidad.
 
 5. Escribe una versión mejorada del aviso comunitario:
 
-Respuesta:
+Respuesta:esta pagina web esta echa para dialogar con la comunidad y saber sun inquitudes.

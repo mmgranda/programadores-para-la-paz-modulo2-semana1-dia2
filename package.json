@@ -4,12 +4,11 @@
     "description": "Cliente web con fetch conectado a servidor Express.",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "dependencies": {
-      "express": "^4.18.2"
+        "express": "^4.22.2"
     },
     "author": "Programa Capacitación en Democracia y Tecnología",
     "license": "MIT"
-  }
-  
+}
